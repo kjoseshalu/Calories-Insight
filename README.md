@@ -99,5 +99,6 @@ This is the default address where Streamlit apps run locally.
     
 ## Output
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[📄 View the PDF Guide](https://github.com/kjoseshalu/Calories-Insight/blob/main/Calories-%20Insight-Ouptut.pdf)
+
 
